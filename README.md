@@ -12,4 +12,4 @@ Student Performance Classification using Machine Learning: Built and evaluated c
 Data Cleaning & Analysis with Excel: Cleaned, structured, and visualized datasets to extract key analytical insights.
 
 📫 Connect with Me
-LinkedIn:https: https://www.linkedin.com/in/asayel-alzahrani
+LinkedIn:https: https://www.linkedin.com/in/asayel-alzahrani-6b37b941a
